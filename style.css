@@ -3,6 +3,7 @@
  
 h1 {
    font-family: "Cabin", sans-serif;
+   font-size: 80px;
    font-optical-sizing: auto;
    font-weight: <weight>;
    font-style: normal;
@@ -13,6 +14,7 @@ h1 {
 p
    .lilita-one-regular {
        font-family: "Lilita One", sans-serif;
+       font-size: 80px;
        font-weight: 400;
        font-style: normal;
      }
