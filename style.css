@@ -1,30 +1,27 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
- 
-h1 {
-   font-family: "Cabin", sans-serif;
-   font-size: 80px;
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap')
+h1{
+   font-family: "Oswald", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap')
+p{
+   font-family: "Open Sans", sans-serif;
    font-optical-sizing: auto;
    font-weight: <weight>;
    font-style: normal;
    font-variation-settings:
      "wdth" 100;
-}
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lilita+One&family=Yarndings+20&display=swap');
-p
-   .lilita-one-regular{ 
-       font-family: "Lilita One", sans-serif;
-       font-size: 80px;
-       font-weight: 400;
-       font-style: normal;
-     }
-span {
-   background-color: black;
-   color: greenyellow;
-   font-family:'Cabin', Times, serif;
-}
-body {
-   background-color: black;
-   text-align: center;
-   color: aliceblue;
+  }
+  body{
+    background-color: rgb(46, 46, 46);
+    color: rgb(202, 138, 255);
+    text-align: center;
+    font-size: 79px;
+  }
+span{
+    background-color: rgb(255, 8, 234);
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
 }
