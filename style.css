@@ -17,12 +17,12 @@ p{
      "wdth" 100;
 }
 span{
-   background-color: black;
+   background-color: gray;
    color: greenyellow;
    font-family:'Cabin', Times, serif;
 }
 body {
-   background-color: black;
+   background-color: gray;
    text-align: center;
-   color: aliceblue;
+   color: black;
 }
