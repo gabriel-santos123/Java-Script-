@@ -12,7 +12,7 @@ h1 {
 }
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lilita+One&family=Yarndings+20&display=swap');
 p
-   .lilita-one-regular {
+   .lilita-one-regular{ 
        font-family: "Lilita One", sans-serif;
        font-size: 80px;
        font-weight: 400;
